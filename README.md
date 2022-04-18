@@ -4,6 +4,7 @@
 	aec_mix.wav 近端信号 语料来自https://www.dspalgorithms.com/w3/echo-cancellation/acoustic-echo-canceller.php  
 	aec_ref.wav 参考信号  
 	aec_out.wav 输出  
+	aec_out_v2.wav 优化双讲后的输出  
 	
 ## ans: 
 	volvoNoisySpeech_C16k.wav 语料来自dspalgorithms.com/w3/noise-reduction/bril-noise-reduction-algorithm.php  
